@@ -1,0 +1,61 @@
+.header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 10px 20px;
+  background-color: #E0E0E0;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  position: relative;
+  width: 100%;
+  z-index: 1000;
+  overflow: hidden;
+}
+
+.logo {
+  height: 150px; /* Tamanho original */
+  transform: scale(1.5); /* Aumenta o tamanho visual do logo */
+}
+
+.inter-image {
+  height: 100px; /* Tamanho original */
+  transform: scale(1.5); /* Aumenta o tamanho visual do cachorro */
+}
+
+.cta-button {
+  background-color: #F4C271;
+  border: none;
+  border-radius: 25px;
+  padding: 10px 20px;
+  cursor: pointer;
+  font-weight: bold;
+  color: #000000;
+}
+
+.cta-button:hover {
+  background-color: #f1b451;
+  color: #000000;
+}
+
+@media (max-width: 768px) {
+  .header {
+    padding: 10px;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+
+  .logo {
+    height: 150px; /* Ajustado para telas menores */
+    transform: scale(1.2); /* Ajusta a escala para telas menores */
+  }
+
+  .inter-image {
+    height: 80px;
+    transform: scale(1.2); /* Ajusta a escala para telas menores */
+  }
+
+  .cta-button {
+    width: 100%;
+    text-align: center;
+    margin-top: 10px;
+  }
+}
