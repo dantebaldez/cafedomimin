@@ -15,7 +15,6 @@ Mimin é o mascote da nossa cafeteria e um golden retriever cheio de charme e pe
 - **React.js**: Biblioteca JavaScript para construir interfaces de usuário.
 - **Vite**: Ferramenta de construção para desenvolvimento rápido e otimizado.
 - **Styled Components**: Para estilização dos componentes de forma modular.
-- **Git**: Controle de versão para gerenciar o código.
 
 ## Funcionalidades
 
