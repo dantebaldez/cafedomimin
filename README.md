@@ -1,6 +1,6 @@
 # Cafeteria do Mimin
 
-Bem-vindo à **Cafeteria do Mimin**, um projeto desenvolvido com o intuito de criar uma landing page charmosa e acolhedora, que representa a nossa cafeteria e seu adorável mascote, Mimin, um golden retriever.
+Bem-vindo à **Cafeteria do Mimin**, um projeto desenvolvido com o intuito de criar uma landing page charmosa e acolhedora, que representa a nossa cafeteria e seu adorável mascote, Armin, um golden retriever, que foi carinhosamente apelidade de Mimin.
 
 ## Descrição
 
